@@ -146,13 +146,9 @@
                             </li>
                         </ul>
                     </li>
-                    <li class="active">
-                        <a href="blank-page.php
-                        "><i class="fa fa-fw fa-file"></i> Blank Page</a>
-                    </li>
                     <li>
-                        <a href="index-rtl.php
-                        "><i class="fa fa-fw fa-dashboard"></i> RTL Dashboard</a>
+                        <a href="profile.php
+                        "><i class="fa fa-fw fa-dashboard"></i> Profile</a>
                     </li>
                 </ul>
             </div>
