@@ -21,7 +21,6 @@
     <form action="includes/login.php" method="post">
     <div class="form-group">
         <input name="username" type="text" class="form-control" placeholder="Enter Username">
-
     </div>
 
     <div class="input-group">
